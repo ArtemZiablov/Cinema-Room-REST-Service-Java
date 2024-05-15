@@ -1,0 +1,7 @@
+cinema:
+  n-rows: 7
+  n-cols: 7
+  secret: super_secret
+  first-rows: 4
+  first-rows-price: 10
+  last-rows-price: 8
